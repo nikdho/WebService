@@ -1,0 +1,17 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "First Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ratio"
+  ],
+  "author": "Nikhil Dhomse",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
